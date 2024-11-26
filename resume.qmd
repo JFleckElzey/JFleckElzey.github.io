@@ -1,89 +1,87 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: resume
+title: Jessica Fleck Elzey's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+# **Jessica Fleck Elzey** 
+
+Open to Relocation <div id="webaddress">
+<a href="https://www.linkedin.com/in/jessica-fleck27/">My LinkedIn</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+<p>**Bachelor of Science in Agriculture Business**, *Apr 2025*<p>
+<p>*Brigham Younty University-Idaho* (Rexburg, ID)<p>
+<p>*magna cum laude* (GPA 3.75)<p>
+- Certificate in Data Science
+- Professional Ag Society (PAS) Treasurer and Public Relations Specialist
 
 
+### Related Coursework
 
-## Awards
+- Financial Analytics, Ag Finance, Ag Accounting, Managerial Accounting, Macro/Micro economics
+- Busines Analytics, Programming for Data Science, Commodity Marketing
 
-`2012`
-President, *Royal Society*, London, UK
+### Projects
+- Used financials in Excel to analyze risks in agribusinesses and make data-driven recommendations
+- Used an enterprise budget and market analysis to recommend risk-mitigating strategies for a ranch
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Technical Skills
+-  Ggplot (R-based), SQL, Power BI, Python, Excel, Pivot Tables, Quarto, Macros
 
 
-## Occupation
+### Certifications
 
-`1600`
-__Royal Mint__, London
+- McGraw Hill Excel Purple Belt
+# - Mastered advanced Excel functions including financial modeling, data manipulation, and complex formulas to analyze large datasets.
+- Bloomberg Market Concepts Certificate
+# - Gained comprehensive knowledge of economic indicators, financial market movements, and risk analysis, specifically for market forecasting
 
-- Warden
-- Minted coins
+### Languages
+- Spanish (Proficient)
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Professional Experience
 
+### Agriculture Price Analysis Teacher’s Assistant
+**Brigham Young University-Idaho**
+*Rexburg, Idaho*<p>
+`Sep 2024 - present`<p>
+- Instructed 10 students on ag supply and demand analysis, focusing on identifying and mitigating risks in agricultural pricing cycles
 
+### Team Lead Production Intern
+**Lamb Weston**<p>
+*Hermiston, Oregon*<p>
+`May – Aug 2024`<p>
+- Developed an Excel database from 11 tables using XLOOKUP and SUMIF functions, saving $5M
+- Visualized data in Power BI to present production metrics, reducing shutdown risk by 30%
+- Built a water tracking database in Excel, contributing to sustainability and mitigating operational risks
+- Delivered analytical reports to 30+ managers, supporting data-driven decision-making
 
-<!-- ### Footer
+### Excel Tutor
+**Brigham Young University-Idaho**<p>
+*Rexburg, ID*<p>
+`Jan - April 2024`<p>
+- Coached and developed a diverse range of customers through various Excel uses, such as economics
 
-Last updated: May 2013 -->
+### Fresh Meat Operations Intern
+**Brigham Young University-Idaho**<p>
+*Rexburg, ID*<p>
+`Jan - April 2024`<p>
+- Collaborated on 5+ cross-departmental projects, focusing on sales, engineering, and production
+- Gained insight into management decision-making during commodity shortages
+- Gained critical insight into decision-making processes during multiple commodity shortages
+- Effectively communicated retention findings, enhancing collaboration and operational strategies
+
+### Farm Hand
+**Food Dudes and Ashcraft Produce (Affiliated with a Simplot Agronomist)**<p>
+*Madison County, ID*<p>
+`April & Sept 2023`<p>
+- Coordinated transportation and managed risks in commodity orders, facilitating 50+ sales
+
+## Volunteer Work
+### Data Science for Food and Agriculture Studies Mentor <p>
+*Remote*<p>
+`July 2024 - present`<p>
+**Northeast Big Data Innovation Hub**<p>
+- Guided students in creating plans to apply data analytics to real-world, practical agricultural problems
